@@ -50,7 +50,7 @@ We will also be breaking our work into short **sprints** with specific design go
 
 Let's start with a basic wireframe.  
 
-![Image Alt](docs/assets/images/tunely_wireframe-1.png)
+![Image Alt](docs/assets/images/tunely_wireframe-1.png).
 
 Typically when you work on a project you'll start with a basic idea and do your initial development on paper or whiteboard.  You can develop and "virtually" test your app with wireframes.  There are also a number of software packages that will help you build wireframes.
 
